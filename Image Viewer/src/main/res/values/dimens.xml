@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="dimen_4dp">4dp</dimen>
+    <dimen name="dimen_2dp">2dp</dimen>
+    <dimen name="card_album_radius">0dp</dimen>
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="article_cover_height">160dp</dimen>
+    <dimen name="article_title_padding">8dp</dimen>
+    <dimen name="article_title">16dp</dimen>
+</resources>
